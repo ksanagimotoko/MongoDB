@@ -1,3 +1,8 @@
 MongoDB is a kind of NoSQL Database.
 relationship: Database > collection > document.
 
+localhost:27017
+
+check: mongo --version
+
+mongod --dbpath [path]  #setting database Folder 
